@@ -1,0 +1,15 @@
+Dear mam,
+
+I am writing to express my interest in the Java Backend Developer position . Please find my resume attached, highlighting my relevant experience and qualifications.
+
+. 2.2 years of Java Backend Developer experience.
+. Proficiency in Java, Spring, Hibernate, and other frameworks.
+. Strong knowledge of object-oriented programming (OOPS) and design patterns.
+. Experience with MySQL and RESTful web services.
+. Strong problem-solving skills and attention to detail.
+. Built an API for frontend team.
+
+Thank you for considering my application. I look forward to discussing how my qualifications align with your requirements.
+
+Best regards,
+Jitendra Rabari
