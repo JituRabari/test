@@ -19,7 +19,7 @@ public class HexaDecimalToBinary {
             binNum = "0" + binNum;
         }
         return binNum;
-    }
+      }
 
     public static void main(String[] args) {
         // Testing Numbers:
