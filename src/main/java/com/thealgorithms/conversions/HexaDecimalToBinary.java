@@ -3,7 +3,7 @@ package com.thealgorithms.conversions;
 // Hex [0-9],[A-F] -> Binary [0,1]
 public class HexaDecimalToBinary {
 
-    private final int LONG_BITS = 8;
+    public final int LONG_BITS = 8;
 
     public String convert(String numHex) {
         // String a HexaDecimal:
